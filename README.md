@@ -32,7 +32,7 @@ I started by making games and now here I am, I still can't beleave how far I've 
 ## Projects
 
 
-| Project         | Description                                                                                         | Tech                                | Try it                                                                                                         |
+| Project         | Description                                                                                         | Tech                                | Repo                                                                                                         |
 | ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **Tom's Escape**      | Final Project at Makers Academy. An escaperoom point and click game as our first React project.                                 | Javascript, Express, React, Node, Jest, CSS, MongoDB, Mongoose, Mongo Atlas | [Frontend Code](https://github.com/jam9304/toms-escape-game/tree/main/src) [Backend API](https://github.com/jam9304/toms-escape-game/tree/main/server)            |
 | **Bowling-Challenge**    | a small test-driven program to interact within the command line    | JavaScript, Jest            | [Github](https://github.com/ChrisPinna/bowling-challenge) |
