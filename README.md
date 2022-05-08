@@ -45,11 +45,9 @@ I started by making games and now here I am, I still can't beleave how far I've 
 #### Communication | Teamwork
 ##### Celebrating
 
-All my previous work experience has relied in one way or another in communication, but my time at Makers has really taut me the power of teamwork.
-For all my group projects at makers we as a team we where set the goal of building something none of us had ever done (AirBnB, FaceBook, etc), with tecnologies we had never used (Active Record, Express, Cypress, MongoDB, Mongoose, React). These stresfull situations can bring the worst out of people, but they can also bring out the best.
-And to bring out the best I can only think of communication as the solution, making sure everyone knows what is the bigger picture, sharing reasorses, getting a diferent view on a problem, celebrating every little success, breaking people out of there negative downwords spiral and most importantly to me sharing a human experience and I dare say enjoing the work with others.
-I genuinly was surprised at how much I love working in a team and what a big diference a good team dynamic can bring to the table.
-
+All my previous work experience has relied in one way or another on communication, but my time at Makers has taught me the power of teamwork. For all my group projects at makers as a team, we were set the goal of building something none of us had ever done (AirBnB, Facebook, etc), with technologies we had never used (Active Record, Express, Cypress, MongoDB, Mongoose, React). These stressful situations can bring the worst out of people, but they can also bring out the best. And to bring out the best I can only think of communication as the solution, making sure everyone knows what is the bigger picture, sharing resources, getting a different view on a problem, celebrating every little success, and breaking people out of their negative downward spiral and most importantly to me sharing a human experience and I dare say enjoying the work with others.
+To my teams I try to bring a culture of celebrating victories, helping others in hard spots and having a good time to remember why we are doing all of this.
+ I genuinely was surprised at how much I love working in a team and what a big difference a good team dynamic can bring to the table.
 #### Leadership
 ##### Helping where it's most needed
 
