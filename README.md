@@ -144,7 +144,7 @@ I never had a problem with anyone in the team, mostly because they are great peo
 
 #### ISSEC, San Carlos  de Bariloche, Argentina , (2018 - 2019)
 
-Technicature in Medical Emergencies (In the unlikely event of you having a heart attack, I'll provide effective CPR to the tune of 1977 movie hit single Stayin' Alive by Bee Gees and also 1977's iconic The Imperial March featured in Star Wars)https://www.bbc.co.uk/news/health-15552957 https://twitter.com/american_heart/status/992421900205936640
+Technicature in Medical Emergencies (In the unlikely event of you having a heart attack, I'll provide effective CPR to the tune of 1977 movie hit single [Stayin' Alive]([url](https://www.bbc.co.uk/news/health-15552957)) by Bee Gees and also 1977's iconic [The Imperial March]([url](https://twitter.com/american_heart/status/992421900205936640)) featured in Star Wars) 
 
 #### Universidad Nacional de Rosario, Argentina (2017)
 
