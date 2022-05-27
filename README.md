@@ -16,7 +16,7 @@ https://www.floridaconstructionconnection.com/wp-content/uploads/2019/09/blog-hi
 
 *Snowboard and Ski Instructor turned Junior Full Stack Developer*
 
-A highly social and energetic **Full Stack Software Developer** by day. A nerd/musician by night.
+A highly social and energetic **Full Stack Software Developer**. With a cyclical love for games/music/surfing/(random exciting new activity).
 
 I started by making games and now here I am, I still can't beleave how far I've come and I'm so exited for what's ahead.
 
@@ -144,7 +144,7 @@ I never had a problem with anyone in the team, mostly because they are great peo
 
 #### ISSEC, San Carlos  de Bariloche, Argentina , (2018 - 2019)
 
-Technicature in Medical Emergencies
+Technicature in Medical Emergencies (In the unlikely event of you having a heart attack, I'll provide effective CPR to the tune of 1977 movie hit single Stayin' Alive by Bee Gees and also 1977's iconic The Imperial March featured in Star Wars)https://www.bbc.co.uk/news/health-15552957 https://twitter.com/american_heart/status/992421900205936640
 
 #### Universidad Nacional de Rosario, Argentina (2017)
 
