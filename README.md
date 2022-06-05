@@ -35,9 +35,9 @@ I started by making games and now here I am, I still can't beleave how far I've 
 | Project         | Description                                                                                         | Tech                                | Repo                                                                                                         |
 | ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **Tom's Escape**      | Final Project at Makers Academy. An escaperoom point and click game as our first React project.                                 | Javascript, Express, React, Node, Jest, CSS, MongoDB, Mongoose, Mongo Atlas | [Github](https://github.com/ChrisPinna/toms-escape-game)            |
-| **Bowling-Challenge**    | a small test-driven program to interact within the command line    | JavaScript, Jest            | [Github](https://github.com/ChrisPinna/bowling-challenge) |
-| **MakersBnB**           | A small AirBnB clone redesigned       | Ruby, Rspec, Capybara, Sinatra, PostgreSQL, Active Records, HTML, CSS             | [Github](https://github.com/clovellbsc/Makersbnb)                                                                              |
-| **Quackbook**      | a Facebook clone, in honour of Quackie, the boot camp's duck mascot | Javascript, Express, Node, Jest, CSS, Handlebars, MongoDB, Mongoose, Mongo Atlas               |  [Github](https://github.com/jonnyabrams/acebook-quack-overflow)
+| **Bowling-Challenge**    | test-driven program that keeps score    | JavaScript, Jest            | [Github](https://github.com/ChrisPinna/bowling-challenge) |
+| **MakersBnB**           | AirBnB clone redesigned       | Ruby, Rspec, Capybara, Sinatra, PostgreSQL, Active Records, HTML, CSS             | [Github](https://github.com/clovellbsc/Makersbnb)                                                                              |
+| **Quackbook**      | Facebook clone, in honour of Quackie, the boot-camp's duck mascot | Javascript, Express, Node, Jest, CSS, Handlebars, MongoDB, Mongoose, Mongo Atlas               |  [Github](https://github.com/jonnyabrams/acebook-quack-overflow)
 
 
 ## Skills
