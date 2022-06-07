@@ -45,6 +45,10 @@ I started by making games and now here I am, I still can't beleave how far I've 
 #### Communication
 ##### 
 
+In the group projects at Makers, we were given the task of achieving web apps that have the functionality of world-renowned companies Airbnb, Facebook, Twitter, etc and so the pressure is high.
+It’s easy to fall into the trap of trying to produce as many features as possible and forget that this is a learning opportunity.
+I made a point of getting to know the people I was working with and for them to know me, of making it known when I didn’t understand something and asking for them to repeat it, of appearing open so that my team knew that they could disagree if they thought they had a better solution, tell me if they didn’t understand, ask for help if needed. for them to want to talk with me.
+As a result, I never had a big problem in my projects, but I had many small ones that were dealt with at the moment.
 
 #### Teamwork
 ##### 
