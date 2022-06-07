@@ -52,7 +52,7 @@ I started by making games and now here I am, I still can't beleave how far I've 
 
 
 #### Critical-thinking | Creativity | Adaptability | Interdisciplinarity 
-##### Be open to others ideas
+##### 
 
 
 ## Tech Skills
