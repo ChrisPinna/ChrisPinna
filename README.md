@@ -53,7 +53,11 @@ As a result, I never had a big problem in my projects, but I had many small ones
 #### Teamwork
 ##### 
 
+Teamwork 
 
+In our second team project at Makers, we had the chance to improve on our previous experience. The situation was as follows we had two weeks to learn how to make and deliver a Facebook-like web app with as much functionality as possible; In the previous project, there had been many parts of the project that I had not worked on and I had not learnt from those experiences.
+To improve on this I proposed a feature walkthrough, being that our overarching goal was not to make a web app to compete with Facebook and instead to learn from the project, I proposed that after finishing any feature in the project the people in charge of said feature would give a walk-through of how it was achieved.
+In the end, this gave us a great chance to improve our communication skills, global awareness of the project, and team-building opportunity( celebrating the achieved feature ) and made it much easier for everyone to work on all parts of the project since nothing was completely unfamiliar in short the real task of learning was achieved whilst having a great Facebook app in our pockets.
 
 #### Critical-thinking | Creativity | Adaptability | Interdisciplinarity 
 ##### 
