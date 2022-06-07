@@ -42,21 +42,16 @@ I started by making games and now here I am, I still can't beleave how far I've 
 
 ## Skills
 
-#### Communication | Teamwork
-##### Celebrating
+#### Communication
+##### 
 
-All my previous work experience has relied in one way or another on communication, but my time at Makers has taught me the power of teamwork. For all my group projects at makers as a team, we were set the goal of building something none of us had ever done (AirBnB, Facebook, etc), with technologies we had never used (Active Record, Express, Cypress, MongoDB, Mongoose, React). These stressful situations can bring the worst out of people, but they can also bring out the best. And to bring out the best I can only think of communication as the solution, making sure everyone knows what is the bigger picture, sharing resources, getting a different view on a problem, celebrating every little success, and breaking people out of their negative downward spiral and most importantly to me sharing a human experience and I dare say enjoying the work with others.
-To my teams I try to bring a culture of celebrating victories, helping others in hard spots and having a good time to remember why we are doing all of this.
- I genuinely was surprised at how much I love working in a team and what a big difference a good team dynamic can bring to the table.
-#### Leadership
-##### Helping where it's most needed
 
-At age 24 I got my first role as a manager in a Ski rental, the team I was in charge of was composed mostly of people older than me, and I definitely felt like I needed to prove myself.
-It was my responsibility to negotiate with the customers, make equipment reservations, check the inventory and handle payments whilst making sure that the flow of customers was smooth.
-The nature of ski resorts' peak hours are customers desperate to go skiing in the morning, very quiet mid-day and customers desperate to leave in the afternoon. and there are only so many working hands to go around, but I found that any little help I could provide in the stations was a relief for the team, from helping fit boots to adjusting skies or simply sorting the customers with poles. I was flying around the shop but I felt like I had an eye on everything.
-I never had a problem with anyone in the team, mostly because they are great people, but I imagine that my work ethic did help.
+#### Teamwork
+##### 
 
-#### Creativity | Adaptability | Interdisciplinarity 
+
+
+#### Critical-thinking | Creativity | Adaptability | Interdisciplinarity 
 ##### Be open to others ideas
 
 
