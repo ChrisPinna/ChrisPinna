@@ -14,7 +14,7 @@ https://www.floridaconstructionconnection.com/wp-content/uploads/2019/09/blog-hi
 
 ## Who am I? 
 
-*Snowboard and Ski Instructor turned Full Stack Developer*
+*Snowboard and Ski Instructor that 180ied into a Full Stack Developer (sorry for the pun!) *
 
 A highly social and energetic **Full Stack Software Developer**. With a cyclical love for games/music/surfing/(random exciting new activity).
 
