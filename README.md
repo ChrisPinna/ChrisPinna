@@ -59,10 +59,6 @@ In our second team project at Makers, we had the chance to improve on our previo
 To improve on this I proposed a feature walkthrough, being that our overarching goal was not to make a web app to compete with Facebook and instead to learn from the project, I proposed that after finishing any feature in the project the people in charge of said feature would give a walk-through of how it was achieved.
 In the end, this gave us a great chance to improve our communication skills, global awareness of the project, and team-building opportunity( celebrating the achieved feature ) and made it much easier for everyone to work on all parts of the project since nothing was completely unfamiliar in short the real task of learning was achieved whilst having a great Facebook app in our pockets.
 
-#### Critical-thinking | Creativity | Adaptability | Interdisciplinarity 
-##### 
-
-
 ## Tech Skills
 
 <table>
