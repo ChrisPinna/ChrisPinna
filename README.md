@@ -126,17 +126,10 @@ In the end, this gave us a great chance to improve our communication skills, glo
 ## Education
 
 #### Makers Academy, London (Jan 2022 – May 2022)
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, JavaScript
-- RSpec, Jest, Capybara, Cypress
-- html, CSS, Handlebars
-- Express, Node.js
-- React, Sinatra
-- PostgreSQL, MongoDB
-- Active Records, Mongoose
-
+Completed final project in MERN stack in a team environment using pair-programming and Agile. https://github.com/ChrisPinna/toms-escape-game
+Language agnostic due to self-led learning, achieving Airbnb and Facebook type web applications in Ruby and JavaScript.
+Experience working in team environments with Git workflow due to pair-programming and group projects throughout the entirety of the Bootcamp.
+Programming fundamentals: OOP, SOLID, DRY, TDD. 
 
 #### ISSEC, San Carlos  de Bariloche, Argentina , (2018 - 2019)
 
