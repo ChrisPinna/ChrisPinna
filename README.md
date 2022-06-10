@@ -158,7 +158,7 @@ An immersive theater experience "The Murder Express", I produced cocktails as pa
 
 **Swiss Ski School St.Moritz, St.Moritz, Switzerland** (Dec 2014 - Apr 2021)    
 *Ski & Snowboard Instructor*  
-A 93 year old ski school In the town of St.Moritz host of events like the [White Turf]([url](https://www.whiteturf.ch/)) 
+A 93 year old ski school In the town of St.Moritz host of events like the [White Turf](https://www.whiteturf.ch/) 
 
 **El Establo Ski Rental, San Carlos de Bariloche, Argentina** (Jul 2018 - Oct 2018)    
 *Manager & Cashier*  
