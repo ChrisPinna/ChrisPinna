@@ -19,9 +19,9 @@ I started by making games and now here I am, I still can't beleave how far I've 
 
 ### Where to find me
 
-[Email](mailto:christian.a.pinna@gmail.com)
-[CodeWars Profile](https://www.codewars.com/users/ChristianPinna)
-[GitHub Profile](https://github.com/ChrisPinna)
+[[Email]](mailto:christian.a.pinna@gmail.com)
+[[CodeWars Profile]](https://www.codewars.com/users/ChristianPinna)
+[[GitHub Profile]](https://github.com/ChrisPinna)
 
 </div>
 
