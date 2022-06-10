@@ -2,9 +2,6 @@
 
 <div align="center">
 
-[![employment status]](
-https://www.floridaconstructionconnection.com/wp-content/uploads/2019/09/blog-hire-me-meme.jpg)
-
 ### Navigation 
 
 [Projects](#projects) |  [Skills](#skills) |
