@@ -131,7 +131,7 @@ Programming fundamentals: OOP, SOLID, DRY, TDD.
 
 #### ISSEC, San Carlos  de Bariloche, Argentina , (2018 - 2019)
 
-Technicature in Medical Emergencies (In the unlikely event of you having a heart attack, I'll provide effective CPR to the tune of 1977 movie hit single [Stayin' Alive](https://www.bbc.co.uk/news/health-15552957) by Bee Gees and also 1977's iconic [The Imperial March](https://twitter.com/american_heart/status/992421900205936640) featured in Star Wars.
+Emergency medical technician(EMT) (In the unlikely event of you having a heart attack, I'll provide effective CPR to the tune of 1977 movie hit single [Stayin' Alive](https://www.bbc.co.uk/news/health-15552957) by Bee Gees and also 1977's iconic [The Imperial March](https://twitter.com/american_heart/status/992421900205936640) featured in Star Wars).
 
 #### Universidad Nacional de Rosario, Argentina (2017)
 
