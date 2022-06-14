@@ -11,7 +11,7 @@
 
 ## Who am I? 
 
-*Snowboard and Ski Instructor turnd Full Stack Developer*
+*Snowboard and Ski Instructor turned Full Stack Developer*
 
 A highly social and energetic **Full Stack Software Developer** with a love for games, playing music and surfing.
 
