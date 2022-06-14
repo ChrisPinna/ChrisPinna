@@ -22,6 +22,7 @@ I started by making games and now here I am, I still can't believe how far I've 
 [[Email]](mailto:christian.a.pinna@gmail.com)
 [[CodeWars Profile]](https://www.codewars.com/users/ChristianPinna)
 [[GitHub Profile]](https://github.com/ChrisPinna)
+[[Linkedin]](www.linkedin.com/in/christian-pinna-b80303208)
 
 </div>
 
