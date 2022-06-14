@@ -72,6 +72,7 @@ In the end, this gave us a great chance to improve our communication skills, glo
         <ul>
           <li>Ruby</li>
           <li>JavaScript</li>
+          <li>SQL</li>
           <li>HTML5</li>
           <li>CSS3</li>
         </ul>
