@@ -145,14 +145,17 @@ Level 1 Snowboard Instructor
 
 **Funicular Productions, London** (Jul 2021 - Jan 2022)    
 *Bartender*  
+
 An immersive theater experience ["The Murder Express"](https://www.funicularproductions.com/), I produced cocktails as part of the show.
 
-**Swiss Ski School St.Moritz, St.Moritz, Switzerland** (Dec 2014 - Apr 2021)    
+**Swiss Ski School St. Moritz, St. Moritz, Switzerland** (Dec 2014 - Apr 2021)    
 *Ski & Snowboard Instructor*  
+
 A 93 year old ski school In the town of St.Moritz host of events like the ["White Turf"](https://www.whiteturf.ch/), I had the pleasure to be part of their tradition teaching the sports I grew up with.
 
 **El Establo Ski Rental, San Carlos de Bariloche, Argentina** (Jul 2018 - Oct 2018)    
 *Manager & Cashier* 
+
 A ski rental on the base of Cerro Catedral ski resort, I negotiated deals with our cutomers, managed the work flow of the equipments team and was in charge of the cash register.
 
 ## Hobbies
@@ -161,4 +164,4 @@ A ski rental on the base of Cerro Catedral ski resort, I negotiated deals with o
 - Gaming & PC Build
 - Musical Acting (Protagonist For We Will Rock You & Shrek Musicals)
 - Guitar, singing & acting
-- Ski, Snowboards & Surf
+- Ski, Snowboard & Surf
