@@ -78,7 +78,6 @@ In the end, this gave us a great chance to improve our communication skills, glo
       </td>
       <td style="vertical-align: top">
         <ul>
-          <li>Rails</li>
           <li>Sinatra</li>
           <li>Node.js</li>
           <li>Express</li>
