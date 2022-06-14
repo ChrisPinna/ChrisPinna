@@ -13,9 +13,9 @@
 
 *Snowboard and Ski Instructor turnd Full Stack Developer*
 
-A highly social and energetic **Full Stack Software Developer** with a love for games/playing music/surfing.
+A highly social and energetic **Full Stack Software Developer** with a love for games, playing music, surfing.
 
-I started by making games and now here I am, I still can't beleave how far I've come and I'm so exited for what's ahead.
+I started by making games and now here I am, I still can't believe how far I've come and I'm so exited for what's ahead.
 
 ### Where to find me
 
