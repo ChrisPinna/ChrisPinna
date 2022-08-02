@@ -55,73 +55,6 @@ In our second team project at Makers, we had the chance to improve on our previo
 To improve on this I proposed a feature walkthrough, being that our overarching goal was not to make a web app to compete with Facebook and instead to learn from the project, I proposed that after finishing any feature in the project the people in charge of said feature would give a walk-through of how it was achieved.
 In the end, this gave us a great chance to improve our communication skills, global awareness of the project, and team-building opportunity (celebrating the achieved feature) and made it much easier for everyone to work on all parts of the project since nothing was completely unfamiliar, in short the real task of learning was achieved whilst having a great Facebook app in our pockets.
 
-## Tech Skills
-
-<table>
-  <thead>
-    <tr>
-      <th>Languages</th>
-      <th>Technologies</th>
-      <th>Testing Frameworks</th>
-      <th>Concepts</th>
-      <th>Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="vertical-align: top">
-        <ul>
-          <li>Ruby</li>
-          <li>JavaScript</li>
-          <li>SQL</li>
-          <li>HTML5</li>
-          <li>CSS3</li>
-        </ul>
-      </td>
-      <td style="vertical-align: top">
-        <ul>
-          <li>Sinatra</li>
-          <li>Node.js</li>
-          <li>Express</li>
-          <li>React</li>
-          <li>PostgreSQL</li>
-          <li>MongoDB</li>
-        </ul>
-      </td>
-      <td style="vertical-align: top">
-        <ul>
-          <li>RSpec</li>
-          <li>Capybara</li>
-          <li>Jest</li>
-          <li>Cypress</li>
-        </ul>
-      </td>
-      <td style="vertical-align: top">
-        <ul>
-          <li>XP/Agile methodology</li>
-          <li>TDD/BDD</li>
-          <li>Object-Oriented Design</li>
-          <li>Remote working</li>
-          <li>Pair programming</li>
-          <li>Git workflow</li>
-          <li>Code review</li>
-          <li>MVC Pattern</li>
-          <li>RESTful APIs</li>
-        </ul>
-      </td>
-      <td style="vertical-align: top">
-        <ul>
-          <li>VSCode</li>
-          <li>Git</li>
-          <li>Windows</li>
-          <li>OSx</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
 ## Experience
 
 
@@ -134,10 +67,12 @@ projects throughout the entirety of the Bootcamp.
 - The curriculum also included OOP, SOLID, DRY, TDD, MVC, DDD, HTML, CSS, Ruby, JavaScript,
 Node.js, React, RSpec, Jest, SQL and Git.
 
+
 **Funicular Productions, London** (Jul 2021 - Jan 2022)    
 *Bartender*  
 
 An immersive theater experience ["The Murder Express"](https://www.funicularproductions.com/), I produced cocktails as part of the show.
+
 
 **Swiss Ski School St. Moritz, St. Moritz, Switzerland** (12/2014 - 04/2021)   
 **Fire on Ice Escuela de Esquí, San Carlos de Bariloche, Argentina** (07/2014 - 10/2014)
@@ -150,6 +85,7 @@ inspire enthusiasm.
 on weather conditions, slopes available and students level.
 - Used organisational skills to construct and arrange a schedule with learning objectives,
 transportation and activities outside of Ski and Snowboarding.
+
 
 **El Establo Ski Rental, San Carlos de Bariloche, Argentina** (07/2018 - 10/2018)
 - Used teamwork and communication to motivate and ensure standards were kept.
